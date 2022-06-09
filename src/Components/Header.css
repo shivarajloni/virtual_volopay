@@ -1,0 +1,25 @@
+.parent_heading_container {
+    display: flex;
+    align-items: center;
+}
+
+.icon_container {
+    display: flex;
+    align-items: center;
+    background: whitesmoke;
+    margin-left: 1rem;
+    border-radius: 5px;
+}
+
+.icon_container span {
+    color: #94BEF2;
+    margin-left: 0.6rem;
+}
+
+.btn_container span {
+    color: black;
+}
+
+.btn_container button {
+    border: none !important;
+}
